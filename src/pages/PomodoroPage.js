@@ -1,4 +1,4 @@
-import { useState, useMemo } from "react";
+import { useState } from "react";
 import Pomodoro from "../component/Pomodoro";
 import Dropdown from "../component/Dropdown"; 
 import GradientBackground from "../component/GradientBackground";
